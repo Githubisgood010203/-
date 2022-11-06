@@ -1,5 +1,6 @@
 # -
 To share is to create another platform, and make create more things.
+
 建立此文档的契机，主要在于三方面：
 1.搭建并运营一个网站，目的在于对当前的互联网社群有更深刻的认识，包括：如何调用各种资源，如何在网页上进行代码的编写等等
 2.借用此网站分享一些个人向内容
